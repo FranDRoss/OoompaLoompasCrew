@@ -3,7 +3,7 @@
 <br />
 
 <div align="center"><strong>Start the Oompa Loompa's crew project in seconds</strong></div>
-<div align="center">A highly scalable, offline-first foundation with the best DX and a focus on performance and best practices</div>
+<div align="center">Try it here! <a href="https://oompadex.surge.sh/">Oompa Loompa's Crew</a></div>
 
 <br />
 
