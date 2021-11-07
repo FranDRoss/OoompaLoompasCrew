@@ -36,6 +36,7 @@
     "test": "cross-env NODE_ENV=test jest --coverage",
     "test:watch": "cross-env NODE_ENV=test jest --watchAll",
     "coveralls": "cat ./coverage/lcov.info | coveralls",
+    "deploy": "gh-pages -d build",
     "prettify": "prettier --write"
   },
   "browserslist": [
