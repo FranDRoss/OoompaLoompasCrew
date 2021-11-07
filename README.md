@@ -10,7 +10,7 @@
 ## Quick start
 
 1.  Make sure that you have Node.js v8.15.1 and npm v5 or above installed.
-2.  Clone this repo using `git clone --depth=1 https://github.com/react-boilerplate/react-boilerplate.git oompasCrew`
+2.  Clone this repo using `git clone https://github.com/react-boilerplate/react-boilerplate.git oompasCrew`
 3.  Move to the appropriate directory: `cd oompasCrew`.<br />
 4.  Run `npm run setup` in order to install dependencies and clean the git repo.<br />
     _At this point you can run `npm start` to see the example app at `http://localhost:3000`._
@@ -29,7 +29,3 @@ Now you're ready to rumble!
   asynchronicity helpers, etc.
 - [**Troubleshooting**](docs/general/gotchas.md): Solutions to common problems faced by developers.
 
-## License
-
-This project is licensed under the MIT license, Copyright (c) 2019 Maximilian
-Stoiber. For more information see `LICENSE.md`.
